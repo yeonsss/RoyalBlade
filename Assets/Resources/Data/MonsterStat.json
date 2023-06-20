@@ -1,0 +1,22 @@
+{
+  "monsterStats": [
+    {
+      "name": "RedSlime",
+      "hp" : 8,
+      "dropPower" : 1,
+      "score" : 10
+    },
+    {
+      "name": "BlueSlime",
+      "hp" : 12,
+      "dropPower" : 1,
+      "score" : 15
+    },
+    {
+      "name": "GreenSlime",
+      "hp" : 14,
+      "dropPower" : 1,
+      "score" : 20
+    }
+  ]
+}

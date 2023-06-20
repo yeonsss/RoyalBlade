@@ -1,0 +1,36 @@
+{
+  "weaponStats" : [
+    {
+      "name" : "TerraBlade",
+      "damage" : 10,
+      "skillGaugeMount" : 20,
+      "criticalChance" : 0.2,
+      "criticalDamageIncrease" : 20,
+      "spawnPath" : "Creature/Weapon/TerraBlade"
+    },
+    {
+      "name" : "Kuira",
+      "damage" : 15,
+      "skillGaugeMount" : 20,
+      "criticalChance" : 0.05,
+      "criticalDamageIncrease" : 10,
+      "spawnPath" : "Creature/Weapon/Kuira"
+    },
+    {
+      "name" : "DeathScythe",
+      "damage" : 8,
+      "skillGaugeMount" : 15,
+      "criticalChance" : 0.3,
+      "criticalDamageIncrease" : 15,
+      "spawnPath" : "Creature/Weapon/DeathScythe"
+    },
+    {
+      "name" : "LightSaber",
+      "damage" : 12,
+      "skillGaugeMount" : 1,
+      "criticalChance" : 0.1,
+      "criticalDamageIncrease" : 20,
+      "spawnPath" : "Creature/Weapon/LightSaber"
+    }
+  ]
+}

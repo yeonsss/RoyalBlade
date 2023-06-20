@@ -1,0 +1,40 @@
+{
+  "stageInfos" : [
+    {
+      "spawnList": [
+        ["RedSlime", "RedSlime", "RedSlime"],
+        ["RedSlime", "RedSlime", "RedSlime"],
+        ["RedSlime", "RedSlime", "RedSlime"],
+        ["RedSlime", "RedSlime", "RedSlime"],
+        ["RedSlime", "RedSlime", "RedSlime"]
+      ]
+    },
+    {
+      "spawnList": [
+        ["RedSlime", "RedSlime", "BlueSlime"],
+        ["RedSlime", "RedSlime", "BlueSlime"],
+        ["RedSlime", "RedSlime", "BlueSlime"],
+        ["RedSlime", "RedSlime", "BlueSlime"],
+        ["RedSlime", "RedSlime", "BlueSlime"]
+      ]
+    },
+    {
+      "spawnList": [
+        ["RedSlime", "RedSlime", "GreenSlime"],
+        ["RedSlime", "RedSlime", "GreenSlime"],
+        ["RedSlime", "RedSlime", "GreenSlime"],
+        ["RedSlime", "RedSlime", "GreenSlime"],
+        ["RedSlime", "RedSlime", "GreenSlime"]
+      ]
+    },
+    {
+      "spawnList": [
+        ["RedSlime", "RedSlime", "RedSlime"],
+        ["RedSlime", "RedSlime", "RedSlime"],
+        ["RedSlime", "RedSlime", "RedSlime"],
+        ["RedSlime", "RedSlime", "RedSlime"],
+        ["RedSlime", "RedSlime", "RedSlime"]
+      ]
+    }
+  ]
+}

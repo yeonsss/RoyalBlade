@@ -1,0 +1,11 @@
+{
+  "characterStats" : [
+    {
+      "name": "MaskDude",
+      "guardPower" : "8",
+      "guardCoolDown" : "1",
+      "jumpPower" : "15",
+      "spawnPath" : "Creature/Player/MaskDude"
+    }
+  ]
+}
